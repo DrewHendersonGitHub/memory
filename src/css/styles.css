@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+}
+
+.hidden-1, .hidden-2, .hidden-3, .hidden-4, .hidden-5, .hidden-6, .hidden-7, .hidden-8, .hidden-9, .hidden-10, .hidden-11, .hidden-12, .hidden-13, .hidden-14, .hidden-15, .hidden-16 {
+  display: none;
+}
+
+.clickable, .clickable1, .clickable2, .clickable3, .clickable4, .clickable5, .clickable6, .clickable7, .clickable8, .clickable9, .clickable10, .clickable11, .clickable12, .clickable13, .clickable14, .clickable15, .clickable16, .clickable17{
+  cursor: pointer;
+  color: darkred;
+  font-style: bold;
+}
+.box {
+  background-color: #f5f5f5;
+  height: 10em;
+  border: 2px solid black;
+  padding: 75px;
+  text-align: center;
+  margin-bottom: 25px;
+  padding-top: 0px;
+}
